@@ -1,0 +1,23 @@
+h1,h2 {
+      font-family:oswald, sans-sariff;
+      font-size:large:
+      font-weight:bold;
+      color:green;
+  }
+h3  {
+      font-family:oswald, sans-sariff;
+      font-size:large;
+      font-weight:bold;
+      color:indigo;
+    
+    }
+div  {
+       background-color:yellow;
+  }
+@font-face {
+              font-family:'oswald', sans-seriff;
+              font-family:'Monda', sans-seriff;
+              font-style:normal;
+              font-weight:400;
+      }
+              
